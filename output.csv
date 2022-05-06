@@ -1,0 +1,9 @@
+,Symbol Name,Symbol Id,Token type,Value
+0,int,integer type,int,-
+1,a,id_1,id,-
+2,",",comma,other,-
+3,b,id_2,id,-
+4,;,semi-colon,other,-
+5,if,Compare,if,-
+6,(,Other 1,(,-
+7,),Other 2,),-
